@@ -4,15 +4,15 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['5212411347465', 'HADES_BOT', true],
-  ['5212412737467'],
-  ['5212411719888'],
-  ['5212411453522'],
+  ['573205254503', 'POSEIDON_BOT', true],
+  ['524432038409'],
+  ['19099999993'],
+  ['524434877166'],
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['5212411347465'], 
+global.prems = ['524432038409'], 
 
 global.APIs = { // API Prefix.
   
@@ -70,8 +70,8 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'HADES_BOT'
-global.author = 'YOVANI'
+global.packname = 'POSEIDON_BOT'
+global.author = 'ALEX Y JAZZ'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -81,7 +81,7 @@ global.author = 'YOVANI'
 global.vs = '1.0.30'
 global.version = vs
 
-global.gt = 'HADES_BOT'
+global.gt = 'POSEIDON_BOT'
 global.gatabot = gt
 
 global.yt = 'https://youtub'
@@ -133,8 +133,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝐘𝐎𝐕𝐀𝐍𝐈 𝐎𝐅𝐈𝐂𝐈𝐀𝐋|𝐘𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓'
-global.igfg = '𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓'
+global.wm = 'POSEIDON 𝐎𝐅𝐈𝐂𝐈𝐀𝐋|POSEIDON_𝐁𝐎𝐓'
+global.igfg = 'POSEIDON_𝐁𝐎𝐓'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
